@@ -2,6 +2,9 @@
 ## Project Objective
 The objective of this project is to analyze e-commerce sales, delivery, and customer experience data using an interactive dashboard to identify key business trends and operational challenges.
 
+## Dataset used
+<a href="https://github.com/rajubashaboina24-tech/E-commerce_Delivery-Data-Analysis-Dashboard/blob/main/E-commerce%20delivery%20dataset.xlsx">Dataset</a>
+
 ## Questions (KPIs)
 What is the total revenue and total number of orders?
 Which product categories generate the highest revenue?
